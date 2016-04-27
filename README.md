@@ -50,5 +50,4 @@ AngularJS é um framework JavaScript open-source, mantido pelo Google, que auxil
 
 ### Meetups
 
-> Nenhum conteúdo ainda. Formato a ser seguido:
-> ```* [Título](link) /*version*/ por @PerfilDoTwitter```
+* [AngularBH](http://www.meetup.com/AngularJS-BH/) por @ivosantiago e @r_mdias
