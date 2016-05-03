@@ -28,6 +28,7 @@ AngularJS é um framework JavaScript open-source, mantido pelo Google, que auxil
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) /*1.x*/ por @johnpapa
 * [Angular styleguide](https://github.com/toddmotto/angular-styleguide) /*1.x*/ por @toddmotto
 * [Angular 2 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a2) /*2.0*/ por @johnpapa
+* [Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide) /*2.0*/ por @mgechev
 
 ## Artigos
 
