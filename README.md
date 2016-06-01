@@ -16,8 +16,14 @@ Um guia criado pela comunidade [Angular Brasil](https://angularjsbrasil.com.br),
 ## O que é o Angular?
 AngularJS é um framework JavaScript open-source, mantido pelo Google, que auxilia na execução de single-page applications. Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador web, sob o padrão model–view–controller (MVC), em um esforço para facilitar tanto o desenvolvimento quanto o teste dos aplicativos.
 
-[AngularJS 1.x](https://angularjs.org/)
-[Angular 2](https://angular.io/)
+## WebSite
+* [AngularJS 1.x](https://angularjs.org/)
+* [Angular 2](https://angular.io/)
+	* [Angular Material 2](https://material.angular.io/)
+	* [Angular 2 Cli](https://cli.angular.io/)
+	* [Angular 2 Universal](https://universal.angular.io/)
+	* [Angular 2 Mobile](https://mobile.angular.io/)
+	* [Angular 2 Augury](https://augury.angular.io/)
 
 ## Apresentações
 
